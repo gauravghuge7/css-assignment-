@@ -1,0 +1,51 @@
+/* 
+* {
+    scrollbar-width: 20px;
+} */
+
+.main {
+    border: 2px solid red;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+
+}
+
+.box1 {
+    background-color: red;
+    /* position: relative;
+    top: 20px;
+    left: 20px; */
+    
+}
+
+.box2 {
+    background-color: green;
+    /* float: right; */
+    
+    /* 
+    position: fixed;
+    top: 500px; */
+
+
+    position: absolute;
+    position: fixed;
+    top: 10px;
+    left: 200px;
+
+
+
+}
+
+.box3 {
+    background-color: blue;
+
+    /* position: sticky;
+
+    top: 10px;
+    left: 100px; */
+    
+}
+

@@ -1,0 +1,22 @@
+
+-----what is position property in css 
+
+position is defining the layout the of tags and define the content in which position and where the content is 
+
+
+
+---how many types in positioning in there in css
+
+
+position in the css are four types 
+
+-- absolute
+-- relative
+--normal flow
+-- float 
+-- static 
+
+
+---what is z-index and why to use it 
+
+z index display content in overriding and and display by priority 
